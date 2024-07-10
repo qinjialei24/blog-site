@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.idea/
+/public/sponsors.circles.svg
+/public/sponsors.part1.svg
+/public/sponsors.part2.svg
+/public/sponsors.past.svg
+/public/sponsors.svg
+/public/sponsors.wide.svg
+/src/data/sponsors-circles.json
+/temp/
